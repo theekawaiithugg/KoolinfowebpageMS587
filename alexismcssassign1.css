@@ -1,0 +1,44 @@
+/* Center content */
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+/* Blue text color */
+.blue-text {
+    color: blue;
+}
+
+/* Center text alignment */
+.center-text {
+    text-align: center;
+}
+
+/* Add padding and margin for readability */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Style headers */
+h1, h2, h3, h4, h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Style paragraphs */
+p {
+    margin-bottom: 20px;
+}
+
+/* Style lists */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
