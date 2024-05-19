@@ -39,11 +39,11 @@ ul {
     list-style-type: none;
     padding-left: 0;
 }
-
+/* Style lists items */
 ul li {
     margin-bottom: 10px;
 }
-
+/* Style for images */
 img {
     width:clamp(400px,50%,1500px);
 
