@@ -2,6 +2,7 @@
 .center {
     text-align: center;
     margin: auto;
+    width:clamp(200px,50%,600px);
 }
 
 /* Blue text color */
@@ -24,7 +25,7 @@ body {
 
 /* Style headers */
 h1, h2, h3, h4, h5 {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 
@@ -41,4 +42,9 @@ ul {
 
 ul li {
     margin-bottom: 10px;
+}
+
+img {
+    width:clamp(400px,50%,1500px);
+
 }
